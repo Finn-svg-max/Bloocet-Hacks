@@ -5,7 +5,7 @@
         if (!arguments[1].includes("s.blooket.com/rc"))
             return wfcall.apply(this, arguments);
     }
-    if (console.log("%c Blooket Cheats Plus %c\n	By DannyDan0167/CryptoDude3 on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/randomstuff69/blooketcheatsplus", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c Blooket Cheats Plus %c\n	By Finn on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/Finn-svg-max/Bloocet-Hacks/tree/main", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var e, t, a, o, r, i, n, s, e = document.createElement("iframe"), t = (document.body.appendChild(e), window.clearId = window.setInterval(() => {}, 0)); t--; )
             e.contentWindow.clearInterval.call(window, t);
         e.remove()
@@ -207,7 +207,7 @@
                             userSelect: "text"
                         },
                         innerHTML: "GitHub - randomstuff69",
-                        onclick: () => window.open("https://github.com/randomstuff69/blooketcheatsplus", "_blank").focus()
+                        onclick: () => window.open("https://github.com/Finn-svg-max/Bloocet-Hacks/tree/main", "_blank").focus()
                     }), $ = l("div", {
                         id: "controlButtons",
                         style: {
@@ -6343,7 +6343,7 @@
 
                         const creditsList = [{
                                 name: "DannyDan0167",
-                                description: "Founder of <a href='https://github.com/randomstuff69/blooketpluscheats/' target='_blank' style='color: #0000FF;'>Blooket Cheats Plus</a>"
+                                description: "Founder of <a href='https://github.com/Finn-svg-max/Bloocet-Hacks/tree/main' target='_blank' style='color: #0000FF;'>Blooket Cheats Plus</a>"
                             }, {
                                 name: "CryptoDude3",
                                 description: "Co-Founder of Blooket Cheats Plus and made almost all of the new cheats"
@@ -6352,10 +6352,10 @@
                                 description: "Creator of the GUI and old cheats"
                             }, {
                                 name: "05Konz",
-                                description: `Owner of the original <a href='https://github.com/Blooket-Council/Blooket-Cheats' target='_blank' style='color: #0000FF;'>Blooket Cheats</a> and old cheats`
+                                description: `Owner of the original <a href='https://github.com/Finn-svg-max/Bloocet-Hacks/tree/main' target='_blank' style='color: #0000FF;'>Blooket Cheats</a> and old cheats`
                             }, {
                                 name: "Randomstuff69",
-                                description: `Hosting the <a href='https://github.com/randomstuff69/blooketpluscheats/' target='_blank' style='color: #0000FF;'>Blooket Cheats Plus</a> repository`
+                                description: `Hosting the <a href='https://github.com/Finn-svg-max/Bloocet-Hacks/tree/main' target='_blank' style='color: #0000FF;'>Blooket Cheats Plus</a> repository`
                             }
                         ];
 
